@@ -1,0 +1,5 @@
+Modificator	Clasă	Pachet	Subclasă (același pachet)	Subclasă (diferit pachet)	Lume (toți)
+public	       Da	Da	      Da	                             Da	               Da
+protected	   Da	Da	       Da	                           Da	                  Nu
+(default)	   Da	Da	       Da	                          Nu                   	Nu
+private	       Da	 Nu	       Nu	                            Nu	                  Nu
